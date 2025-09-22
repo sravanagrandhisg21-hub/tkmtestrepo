@@ -1,3 +1,4 @@
+line added from git local repo
 This is first line in a
 This is second line in a
 This is 3rd line in a
